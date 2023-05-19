@@ -68,16 +68,15 @@ Link - https://drive.google.com/file/d/1TZdnJFsovd6PuLFOZx0nfASWf6ZMv9ro/view?us
 
 Author
 -----
--   Aditya Chaugule
--   Graduate Student
--   Master of Engineering in Robotics
--   University of Maryland, College Park
--   aditya97@umd.edu
+Aditya Chaugule
+Graduate Student
+Master of Engineering in Robotics
+University of Maryland, College Park
+aditya97@umd.edu
 
 
--   Ankur Chavan
--   Graduate Student
--   Master of Engineering in Robotics
--   University of Maryland, College Park
-
--   achavan1@umd.edu
+Ankur Chavan
+Graduate Student
+Master of Engineering in Robotics
+University of Maryland, College Park
+achavan1@umd.edu
